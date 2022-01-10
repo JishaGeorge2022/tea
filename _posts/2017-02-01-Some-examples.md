@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Some Examle"
 layout: post
 ---
 
